@@ -1,0 +1,34 @@
+{
+  "pages": {
+    "en": {
+      "Alle Bestände sind ausreichend und kein Artikel ist defekt.": "All stock levels are sufficient and no item is defective.",
+      "Alle Bestände sind ausreichend — {0} braucht Aufmerksamkeit.": "All stock levels are sufficient — {0} needs attention.",
+      "Alle {0} anzeigen": "Show all {0}",
+      "Artikel": "Items",
+      "Artikel nach Zustand": "Items by condition",
+      "Artikel pro Lagerort": "Items per storage location",
+      "Bestand aufgebraucht": "Out of stock",
+      "Bestand und Mindestbestand": "Stock and minimum stock",
+      "Bewegung erfassen": "Record movement",
+      "Bewegungen heute": "Movements today",
+      "Ersten Artikel aufnehmen": "Add first item",
+      "Filter zurücksetzen": "Reset filter",
+      "Letzte Bestandsbewegungen": "Recent stock movements",
+      "Nachbestellen: {0} liegt unter dem Mindestbestand.": "Reorder: {0} is below minimum stock.",
+      "Nachbestellen: {0} — außerdem {1} defekt oder in Reparatur.": "Reorder: {0} — also {1} defective or in repair.",
+      "Neuer Artikel": "New item",
+      "Nichts in dieser Ansicht — alles im grünen Bereich.": "Nothing in this view — everything is in the green.",
+      "Noch keine Artikel im Lager.": "No items in stock yet.",
+      "Noch keine Bewegungen erfasst.": "No movements recorded yet.",
+      "Ohne Bezeichnung": "Untitled",
+      "Richte dein Lager ein — lege den ersten Artikel an.": "Set up your warehouse — create the first item.",
+      "Unbekannter Artikel": "Unknown item",
+      "Unter Mindestbestand": "Below minimum stock",
+      "Weniger anzeigen": "Show less",
+      "Zugang": "Receipt",
+      "Zustand": "Condition",
+      "kein Minimum": "no minimum"
+    }
+  },
+  "v": 1
+}

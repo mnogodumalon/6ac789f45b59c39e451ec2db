@@ -1,0 +1,27 @@
+{
+  "LagerorteDialog.tsx": {
+    "bezeichnung": "z. B. Regal A3",
+    "beschreibung": "Was wird hier gelagert?",
+    "bemerkungen": "Weitere Hinweise zum Lagerort"
+  },
+  "ArtikelDialog.tsx": {
+    "artikelbezeichnung": "z. B. Akkuschrauber",
+    "artikelnummer": "z. B. ART-2026-001",
+    "hersteller": "z. B. Bosch",
+    "seriennummer": "z. B. SN-123456",
+    "aktueller_bestand": "z. B. 12",
+    "mindestbestand": "z. B. 5",
+    "anschaffungsdatum": "Wann wurde er angeschafft?",
+    "anschaffungspreis": "z. B. 149,90",
+    "lagerort": "Welcher Lagerort?",
+    "bemerkungen": "Weitere Hinweise zum Artikel"
+  },
+  "BestandsbewegungenDialog.tsx": {
+    "artikel": "Welcher Artikel?",
+    "zeitpunkt": "Wann fand die Bewegung statt?",
+    "menge": "z. B. 5",
+    "person_vorname": "z. B. Thomas",
+    "person_nachname": "z. B. Becker",
+    "bemerkungen": "Notizen zur Bewegung"
+  }
+}
